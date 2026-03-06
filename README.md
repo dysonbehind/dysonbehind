@@ -1,61 +1,66 @@
-<h1 align="center">Dyson</h1>
-<h3 align="center">C++ Software Engineer | Low-Level & Networking</h3>
-
-<!-- Печатающийся хакерский текст -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=B0B4FF&center=true&vCenter=true&width=435&lines=C%2B%2B+%2F+WinAPI+Developer;DPI+Bypass+%26+Networking;DirectX+11+%2F+ImGui+UI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=B0B4FF&center=true&vCenter=true&width=800&lines=%3E_System.out.println(%22Hello+World%22);;%3E_C%2B%2B+%2F+WinAPI+Software+Engineer;%3E_Networking+%26+DPI+Bypass+Expert;%3E_DirectX+11+%2F+ImGui+Developer" alt="Typing SVG" />
 </p>
 
-<!-- Бейджи соцсетей и счетчик просмотров профиля -->
 <p align="center">
-  <a href="https://t.me/wokeupinthemorning">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://www.youtube.com/@dysonpeek">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://gamebanana.com/mods/616141">
-    <img src="https://img.shields.io/badge/GameBanana-Mod-yellow?style=for-the-badge&logo=gamebanana&logoColor=white" alt="GameBanana" />
-  </a>
-</p>
-<p align="center">
+  <a href="https://t.me/wokeupinthemorning"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://www.youtube.com/@dysonpeek"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://gamebanana.com/mods/616141"><img src="https://img.shields.io/badge/GameBanana-Mod-yellow?style=for-the-badge&logo=gamebanana&logoColor=black" alt="GameBanana" /></a>
   <img src="https://komarev.com/ghpvc/?username=dysonbehind&label=PROFILE+VIEWS&color=B0B4FF&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <br>
 
-<!-- КАРТОЧКИ ТВОИХ ПРОЕКТОВ (КЛИКАБЕЛЬНЫЕ) -->
-<h3 align="center">🔥 Featured Projects</h3>
-<p align="center">
-  <a href="https://github.com/dysonbehind/dyson-zapret">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dysonbehind&repo=dyson-zapret&theme=tokyonight&bg_color=121216&title_color=B0B4FF&text_color=a9b1d6&icon_color=B0B4FF&hide_border=true" width="400" alt="Zapret Dyson" />
-  </a>
-  <a href="https://github.com/dysonbehind/Deadlock-Font-Changer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dysonbehind&repo=Deadlock-Font-Changer&theme=tokyonight&bg_color=121216&title_color=B0B4FF&text_color=a9b1d6&icon_color=B0B4FF&hide_border=true" width="400" alt="Deadlock Font Changer" />
-  </a>
-</p>
+<h2 align="center">⚔️ Featured Projects</h2>
+
+<!-- СТАТИЧНЫЕ КАРТОЧКИ ПРОЕКТОВ (НИКОГДА НЕ ЛОМАЮТСЯ) -->
+<table border="1" bordercolor="#30363D" style="border-collapse: collapse; width: 100%; text-align: center;">
+  <tr>
+    <td width="50%" valign="top" style="padding: 20px; background-color: #0D1117;">
+      <h3><a href="https://github.com/dysonbehind/dyson-zapret" style="color: #B0B4FF; text-decoration: none;">🛡️ Zapret Dyson</a></h3>
+      <p style="color: #8B949E; font-size: 14px;">Аппаратно-ускоренный GUI для обхода систем DPI на уровне ядра операционной системы.</p>
+      <br>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/ImGui-8B0000?style=flat-square" />
+      <img src="https://img.shields.io/badge/WinDivert-555555?style=flat-square" />
+    </td>
+    <td width="50%" valign="top" style="padding: 20px; background-color: #0D1117;">
+      <h3><a href="https://github.com/dysonbehind/Deadlock-Font-Changer" style="color: #B0B4FF; text-decoration: none;">🖋️ Deadlock Font Changer</a></h3>
+      <p style="color: #8B949E; font-size: 14px;">Утилита для инъекции и кастомизации шрифтов в игре Deadlock. Работа с памятью и WinAPI.</p>
+      <br>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/WinAPI-0078D6?style=flat-square&logo=windows&logoColor=white" />
+      <img src="https://img.shields.io/badge/Memory_Hack-555555?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
-<!-- СТЕК ТЕХНОЛОГИЙ -->
-<h3 align="center">🛠️ Tech Stack & Tools</h3>
+<h2 align="center">🛠️ Core Stack</h2>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,windows,visualstudio,github,powershell,cmake,py" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,windows,visualstudio,github,powershell,cmake,py&perline=8" />
   </a>
 </p>
 
 <br>
 
-<!-- ГЛОБАЛЬНАЯ СТАТИСТИКА (Рейтинг, коммиты, языки) -->
-<h3 align="center">📊 GitHub Stats</h3>
+<h2 align="center">📊 Development Activity</h2>
+
+<!-- НЕОНОВЫЙ ГРАФИК КОММИТОВ -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dysonbehind&show_icons=true&theme=tokyonight&hide_border=true&bg_color=121216&title_color=B0B4FF&text_color=a9b1d6&icon_color=B0B4FF" height="195" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dysonbehind&layout=compact&theme=tokyonight&hide_border=true&bg_color=121216&title_color=B0B4FF&text_color=a9b1d6" height="195" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dysonbehind&bg_color=0D1117&color=B0B4FF&line=B0B4FF&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
-<!-- АЧИВКИ (КУБКИ ГИТХАБА) -->
-<h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dysonbehind&theme=tokyonight&no-bg=true&no-frame=true&title-text-color=B0B4FF&margin-w=15" alt="Trophies" />
+  <!-- СТАТИСТИКА И СТРИКИ -->
+  <img src="https://github-readme-stats.vercel.app/api?username=dysonbehind&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B0B4FF&icon_color=B0B4FF&cache_seconds=86400" height="195" alt="Stats" />
+  <img src="https://streak-stats.demolab.com/?user=dysonbehind&theme=tokyonight&hide_border=true&background=0D1117&ring=B0B4FF&fire=B0B4FF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=8B949E&dates=8B949E" height="195" alt="Streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dysonbehind&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=B0B4FF&text_color=a9b1d6&cache_seconds=86400" height="180" alt="Top Languages" />
+</p>
+
